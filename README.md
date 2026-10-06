@@ -4,7 +4,7 @@
 
 \*\*Integrantes do Grupo:\*\*
 
-\* Enrico Bergonzo, Felipe Formolo, Franco Scotti, Gabriel Custódio e Larissa Rodrigues
+\* Enrico Bergonzo, Felipe Formolo, Franco Scotti, Gabriel Custodio e Larissa Rodrigues
 
 \---
 
